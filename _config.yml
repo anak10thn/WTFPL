@@ -1,0 +1,8 @@
+title: WTFPL
+description: DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
